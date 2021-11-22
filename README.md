@@ -1,0 +1,3 @@
+西电软件工程 海量数据管理
+Main.java和DataBaseManager.java用来向mysql数据库中添加数据；
+influx.py用来向influxDB数据库中添加数据。
